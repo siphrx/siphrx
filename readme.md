@@ -1,4 +1,4 @@
-![Banner](assets/whoami.svg)
+![Banner](assets/siphrx.svg)
 
 Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiporto.vercel.app/)**
 
