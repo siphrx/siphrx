@@ -1,17 +1,12 @@
 ![Banner](assets/banner-light.svg)
 
-Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiporto.vercel.app/)**
-
-I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and an Open Source developer building custom tools, Obsidian plugins, and themes. Currently, I'm diving into Offensive Security and Web Pentesting to start Bug Hunting, with my sights set on Cloud Security.
+Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)** — a 2nd-year CS student at [Tanta University](https://ci.tanta.edu.eg/en/), currently moving into offensive security and web pentesting on my way to bug hunting and, eventually, cloud security.
 
 ## About Me
 
-* **Background:** A Computer Science student @ [Tanta University](https://ci.tanta.edu.eg/en/) with an interest in software development and understanding how systems work.
-* **Security Focus:** Currently active in bug hunting and practicing Web and Android penetration testing, with a long-term goal of working in Cloud Security.
-* **Open Source:** I enjoy building tools, ranging from simple automation scripts and Linux themes to custom Obsidian plugins.
-* **Knowledge Base:** Maintaining a personal wiki in Obsidian to document technical problems and their solutions, with plans to publish it on [my Website](https://xsiporto.vercel.app/) later.
-* **System:** A Linux enthusiast configuring minimal Arch Linux setups, managing dotfiles, and exploring system internals.
-* **Community:** Member of the [Hidden Lock Team](https://www.hiddenlockteam.com/), dedicated to supporting and expanding the Arab Linux community. I actively help users [troubleshoot and resolve](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html) their Linux-related issues.
+Outside of security, I build things — automation scripts, Linux themes, and Obsidian plugins. I run a minimal Arch setup and spend a fair amount of time in dotfiles and system internals, mostly because I like knowing how things actually work under the hood.
+
+I'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html). I also keep a personal Obsidian wiki documenting problems I've run into and how I solved them — planning to publish it on [my site](https://xsiphr.vercel.app/) at some point.
 
 ## Featured Project
 
