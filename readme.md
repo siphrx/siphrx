@@ -31,7 +31,7 @@ Open-source, stateless media extractor with zero-retention architecture. Live at
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xsiphr&theme=dark&hide_border=true&background=00000000&stroke=B69374&ring=F5E6D3&fire=F5E6D3&currStreakLabel=F5E6D3&sideNums=B69374&currStreakNum=F5E6D3&sideLabels=B69374&dates=B69374" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=t40ix&theme=dark&hide_border=true&background=00000000&stroke=B69374&ring=F5E6D3&fire=F5E6D3&currStreakLabel=F5E6D3&sideNums=B69374&currStreakNum=F5E6D3&sideLabels=B69374&dates=B69374" alt="GitHub Streak" />
 </p>
 
 <p align="center">
